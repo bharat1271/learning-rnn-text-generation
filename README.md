@@ -62,7 +62,7 @@ This project was implemented while following a structured Deep Learning course a
 
 Streamlit App:
 
-
+https://imdb-sentiment-analysis-rnn-2026.streamlit.app/
 
 ## Future Improvements
 
